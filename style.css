@@ -1,6 +1,6 @@
 body {
-  color: #444444;
-  background-color: #C5D6DF;
+  color: #b5b5b7;
+  background-color: #252839;
   font-family: 'Lato', sans-serif;
   margin-left: auto;
   margin-right: auto;
@@ -10,8 +10,8 @@ body {
 #header {
   z-index: 2;
   position: absolute;
-  color: #000000;
-  background-color: #BDCCD4;
+  color: #b5b5b7;
+  background-color: #444444;
   font-weight: 600;
   font-size: 40px;
   letter-spacing: 2px;
@@ -61,15 +61,17 @@ img {
 #bioheader {
   font-weight: 600;
   font-size: 32px;
+    
 }
 #bioheader, h3 {
   color: #000000;
   letter-spacing: 1px;
+  color: #f2b632;
 }
 #biodesc {
   margin-top: -220px;
   margin-left: 240px;
-  height: 220px;
+  height: 300px;
   font-size: 20px;
   overflow: auto;
 }
@@ -83,7 +85,7 @@ img {
   margin-bottom: 20px;
 }
 hr {
-  background-color: #000000;
+  background-color: #677077;
   height: 5px;
   border: 0;
   margin-left: 0;
@@ -92,8 +94,8 @@ hr {
   margin-bottom: 4em;
 }
 a {
-  color: #000000;
-  border-bottom: 2px solid #000000;
+  color: #b5b5b7;
+  border-bottom: 2px solid #677077;
   text-decoration: none;
   transition: all 0.1s ease-in-out;
   -moz-transition: all 0.1s ease-in-out;
